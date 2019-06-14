@@ -1,0 +1,9 @@
+cake-middle - bod(cie¾) ku ktorému sa všetky muchy pribliujú
+crosshair - cursor - volite¾ná forma (podoba) myši - kurzoru
+enemy-fly - typy múch
+background  - background na titulnej strane
+fail-eaten-cake - v pripade toho, e sa k cie¾ovému bodu dostalo príli ve¾a múch 
+interior- návrhy levelov
+menu-parts - èasti menu - button etc.
+powerup - moné klikate¾né powerupy
+success - ak sa podarí hráèovi zdola level

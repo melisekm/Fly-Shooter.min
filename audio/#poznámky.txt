@@ -1,0 +1,6 @@
+background music - hudba na pozadí
+ammo_pickup - pri zobratí munície
+enemy_enter_middle - mucha sa dostala ku koláèiku
+powerup - zber boostov
+shotgun - vystrelenie - návrhy
+ting - kliknute na button
