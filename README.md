@@ -1,6 +1,6 @@
 # Fly-Shooter.min
 
-# MINIFIED!
+# MINIFIED!, but PLAYABLE
 
 Interactive Javascript canvas game for project assignment in school.  
 Subject : Introduction to Interactive Applications Development // (SK) - ZTIAP   
