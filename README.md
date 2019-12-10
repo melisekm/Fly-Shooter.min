@@ -1,4 +1,7 @@
 # Fly-Shooter.min
+
+# MINIFIED!
+
 Interactive Javascript canvas game for project assignment in school.  
 Subject : Introduction to Interactive Applications Development // (SK) - ZTIAP   
 University: Slovak Technical University - Faculty of Informatics and Information Technologies  
