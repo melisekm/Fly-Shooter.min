@@ -14,4 +14,3 @@ HTML5 , Vanilla Javascript, Canvas, Audio, Images.
 
 Introduction to object oriented programming.  
 
-![showcase](showcase.png)
