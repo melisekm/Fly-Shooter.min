@@ -2,7 +2,7 @@
 
 # MINIFIED!
 
-Playable here : http://ts.gamever.eu/~montty/
+Playable here : https://fly-shooter.herokuapp.com/
 
 Interactive Javascript canvas game for project assignment in school.  
 Subject : Introduction to Interactive Applications Development // (SK) - ZTIAP   
